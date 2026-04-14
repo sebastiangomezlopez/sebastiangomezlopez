@@ -1,6 +1,6 @@
 # Hi, I'm Sebastian Gomez Lopez 👋
 
-**Scientific Software Engineer | Performance Optimizer | High-Performance Python Expert**
+**Scientific Software developer | Performance Optimizer | High-Performance Python Expert**
 
 I am a Computational Physicist  specializing in building and optimizing high-throughput data pipelines for complex physical systems. I thrive at the intersection of heavy math, massive data, and performance engineering.
 
