@@ -2,7 +2,7 @@
 
 **Scientific Software developer | Performance Optimizer | High-Performance Python Expert**
 
-I am a Computational Physicist  specializing in building and optimizing high-throughput data pipelines for complex physical systems. I thrive at the intersection of heavy math, massive data, and performance engineering.
+I am a Computational Physicist  specializing in building and optimizing high-throughput data pipelines for the analysis of astronomical data. I thrive at the intersection of heavy math, massive data, and performance engineering.
 
 ### 🚀 Highlights
 * **Top 50 Contributor to [PyCBC](https://github.com/gwastro/pycbc):** I contribute production-level code to the primary software stack used by the global LIGO-Virgo-KAGRA collaboration for gravitational-wave detection.
