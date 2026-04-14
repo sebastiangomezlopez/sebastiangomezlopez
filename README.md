@@ -2,8 +2,6 @@
 
 **Scientific Software Engineer | Performance Optimizer | High-Performance Python Expert**
 
-![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastiangomezlopez&show_icons=true&theme=dark)
-
 I am a Computational Physicist transitioning into the private sector, specializing in building and optimizing high-throughput data pipelines for complex physical systems. I thrive at the intersection of heavy math, massive data, and performance engineering.
 
 ### 🚀 Highlights
