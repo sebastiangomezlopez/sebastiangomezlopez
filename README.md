@@ -7,6 +7,7 @@ I am a Computational Physicist  specializing in building and optimizing high-thr
 ### 🚀 Highlights
 * **Top 50 Contributor to [PyCBC](https://github.com/gwastro/pycbc):** I contribute production-level code to the primary software stack used by the global LIGO-Virgo-KAGRA collaboration for gravitational-wave detection.
 * **Creator of [mfNRcatpy](https://pypi.org/project/mfNRcatpy/):** A published Python package on PyPI for numerical relativity analysis, built with industry-standard packaging and documentation.
+* Participated in optimizing [pycbc_multi_inpiral](https://github.com/gwastro/pycbc/blob/master/bin/pycbc_multi_inspiral) identifying bottlenecks using profilers like cprof2dot and scalene.
 * **HPC Orchestrator:** Expert in managing terabyte-scale workloads across thousands of CPU cores on international supercomputers (Galileo100).
 
 ### 🛠 Technical Toolbox
