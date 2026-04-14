@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Sebastian Gomez Lopez 👋
 
-<!--
-**sebastiangomezlopez/sebastiangomezlopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Scientific Software Engineer | Performance Optimizer | High-Performance Python Expert**
 
-Here are some ideas to get you started:
+I am a Computational Physicist transitioning into the private sector, specializing in building and optimizing high-throughput data pipelines for complex physical systems. I thrive at the intersection of heavy math, massive data, and performance engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 The "Gold Mine" Highlights
+* **Top 50 Contributor to [PyCBC](https://github.com/gwastro/pycbc):** I contribute production-level code to the primary software stack used by the global LIGO-Virgo-KAGRA collaboration for gravitational-wave detection.
+* **Creator of [mfNRcatpy](https://pypi.org/project/mfNRcatpy/):** A published Python package on PyPI for numerical relativity analysis, built with industry-standard packaging and documentation.
+* **HPC Orchestrator:** Expert in managing terabyte-scale workloads across thousands of CPU cores on international supercomputers (Galileo100).
+
+### 🛠 Technical Toolbox
+* **Languages:** Python (Expert/Cython/Numba), C++ (Scientific), SQL, Bash.
+* **Computing:** SLURM, HTCondor, MPI, Distributed Computing (Dask/Ray).
+* **Optimization:** Performance Profiling, Memory Management, Vectorization.
+* **Data:** Time-Series Analysis, Bayesian Inference, Signal Processing.
+
+### 🔭 What I'm looking for
+I am currently seeking **Remote** opportunities in **Space-Tech, High-Performance Computing, or Quantitative Research** where I can apply my experience in optimizing complex data systems to solve real-world engineering bottlenecks.
+
+📫 **How to reach me:** [Your Email] | [Your LinkedIn] | [Google Scholar]
